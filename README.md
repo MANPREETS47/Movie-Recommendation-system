@@ -57,7 +57,3 @@ The dataset contains:
    - Softmax over all content IDs
 
 ---
-
-## 📜 Example Usage
-```python
-recommend_similar("Wednesday", top_k=5)
