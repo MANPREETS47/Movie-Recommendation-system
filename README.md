@@ -57,3 +57,16 @@ The dataset contains:
    - Softmax over all content IDs
 
 ---
+
+## How To Run
+
+# Clone repository
+git clone https://github.com/<your-username>/netflix-recommendation-system.git
+cd netflix-recommendation-system
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run notebook
+jupyter notebook
+
